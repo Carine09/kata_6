@@ -1,3 +1,8 @@
+/* Ressources consultées
+    - https://medium.com/@lelianto.eko/hashmap-in-ja-3a5c03a8febc
+    - https://javascript.developpez.com/tutoriels/javascript/linking_hash_map/
+*/
+
 const array = [2,7,11,15]
 
 function twoSum(arr, target) {
